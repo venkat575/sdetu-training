@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Adding code from GitHub");
 System.out.println("Tring! Tring!");
 System.out.println("Rambo! Rambo!");
+		System.out.println("Testing from GitHub!");
 	}
 }
